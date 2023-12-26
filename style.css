@@ -52,6 +52,14 @@
 		font-family: 'Brush Script MT', cursive; 
 		font-size:240%;
 	}
+	h2{
+		text-align: center;
+		font-family: 'Brush Script MT', cursive; 
+	}
+	ul{
+		text-align: left;
+		font-size:80%;
+	}
 	#button{
 		margin:auto;
     display:block;
@@ -124,3 +132,4 @@ body{
 .pink{
 	background-color:pink;
 }
+
